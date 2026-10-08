@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev →</strong></a>
+  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev</strong></a>
 </p>
-
 <br>
-
-<div align="center">
-  <a href="https://www.neokey.dev">
-    <img src="https://www.neokey.dev/assets/images/blob/me.svg" alt="Ilustración de Miguel Angel Muñiz Landeros" width="180">
-  </a>
 
   <h1>Miguel Angel Muñiz Landeros</h1>
   <p><strong>Programador técnico · Estudiante de Ingeniería en Sistemas Computacionales</strong></p>
@@ -35,10 +29,10 @@ Actualmente estudio la **Licenciatura en Ingeniería en Sistemas Computacionales
 
 ## En qué estoy trabajando
 
-- 🧰 Automatización y mejoras para flujos de trabajo en **SIRETRAC**.
-- 🌐 Experiencias web cuidadas, accesibles y con una identidad visual propia.
-- 📱 Exploración de desarrollo Android con **Kotlin** y **Material Design 3**.
-- 📚 Construcción constante de fundamentos mientras curso Ingeniería en Sistemas.
+- + Automatización y mejoras para flujos de trabajo en **SIRETRAC**.
+- + Experiencias web cuidadas, accesibles y con una identidad visual propia.
+- + Exploración de desarrollo Android con **Kotlin** y **Material Design 3**.
+- + Construcción constante de fundamentos mientras curso Ingeniería en Sistemas.
 
 <details>
   <summary><strong>Conoce más sobre mi formación</strong></summary>
