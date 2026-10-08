@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://www.neokey.dev">
+    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="880">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev →</strong></a>
+</p>
+
+<br>
+
 <div align="center">
   <a href="https://www.neokey.dev">
     <img src="https://www.neokey.dev/assets/images/blob/me.svg" alt="Ilustración de Miguel Angel Muñiz Landeros" width="180">
@@ -12,18 +24,6 @@
     <a href="https://www.instagram.com/neokeeyyy/"><img src="https://img.shields.io/badge/Instagram-@neokeeyyy-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
 </div>
-
-<p align="center">
-  <a href="https://www.neokey.dev">
-    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="880">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev →</strong></a>
-</p>
-
-<br>
 
 ## Hola, soy Miguel 👋
 
@@ -70,6 +70,9 @@ Actualmente estudio la **Licenciatura en Ingeniería en Sistemas Computacionales
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/neokeeyyy/Easytrac-userscripts">
+        <img src="https://www.neokey.dev/assets/images/projects/proyecto1.webp" alt="Portada de EasyTRAC" width="100%">
+      </a>
       <h3><a href="https://github.com/neokeeyyy/Easytrac-userscripts">EasyTRAC</a></h3>
       <p>Conjunto de userscripts para agilizar el uso de SIRETRAC por permisionarios y simplificar tareas frecuentes de la plataforma.</p>
       <p><code>JavaScript</code> <code>Userscripts</code> <code>Tampermonkey</code></p>
