@@ -13,6 +13,16 @@
   </p>
 </div>
 
+<p align="center">
+  <a href="https://www.neokey.dev">
+    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="880">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev →</strong></a>
+</p>
+
 <br>
 
 ## Hola, soy Miguel 👋
@@ -29,6 +39,19 @@ Actualmente estudio la **Licenciatura en Ingeniería en Sistemas Computacionales
 - 🌐 Experiencias web cuidadas, accesibles y con una identidad visual propia.
 - 📱 Exploración de desarrollo Android con **Kotlin** y **Material Design 3**.
 - 📚 Construcción constante de fundamentos mientras curso Ingeniería en Sistemas.
+
+<details>
+  <summary><strong>Conoce más sobre mi formación</strong></summary>
+
+  <br>
+
+  <table>
+    <tr>
+      <td><strong>CBTis 245</strong><br>Técnico Programador</td>
+      <td><strong>UVEG</strong><br>Ingeniería en Sistemas Computacionales · En curso</td>
+    </tr>
+  </table>
+</details>
 
 ## Tecnologías con las que construyo
 
