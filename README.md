@@ -3,15 +3,9 @@
     <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="500">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.neokey.dev"><strong>Ver presentación completa en neokey.dev</strong></a>
-</p>
 <br>
-
   <h1>Miguel Angel Muñiz Landeros</h1>
   <p><strong>Programador técnico · Estudiante de Ingeniería en Sistemas Computacionales</strong></p>
-
   <p>
     <a href="https://www.neokey.dev"><img src="https://img.shields.io/badge/Portafolio-neokey.dev-234d3c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
     <a href="https://www.linkedin.com/in/neokey/"><img src="https://img.shields.io/badge/LinkedIn-neokey-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
