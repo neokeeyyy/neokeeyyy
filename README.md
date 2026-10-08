@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.neokey.dev">
-    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="500">
+    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="375">
   </a>
 </p>
 <br>
