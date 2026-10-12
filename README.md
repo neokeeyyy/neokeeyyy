@@ -51,6 +51,7 @@ Actualmente estudio la **Licenciatura en Ingeniería en Sistemas Computacionales
   <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=111111" alt="Android">
   <img src="https://img.shields.io/badge/Tampermonkey-00485b?style=flat-square&logo=tampermonkey&logoColor=white" alt="Tampermonkey">
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-C/C++-lightpink?style=flat-square&logo=c&logoColor=white" alt="C">
 </p>
 
 ## Proyectos destacados
