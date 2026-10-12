@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.neokey.dev">
-    <img src="./landing-hero.png" alt="Presentación de Miguel Angel Muñiz Landeros en neokey.dev" width="375">
-  </a>
-</p>
 <br>
   <h1>Miguel Angel Muñiz Landeros</h1>
   <p><strong>Programador técnico · Estudiante de Ingeniería en Sistemas Computacionales</strong></p>
